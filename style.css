@@ -35,3 +35,11 @@ body {
 .purple {
     background-color: #819ff9;
 }
+
+.flash {
+    background-color: rgb(6, 9, 57);
+}
+
+.userFlash {
+    background-color: rgb(13, 40, 8);
+}
